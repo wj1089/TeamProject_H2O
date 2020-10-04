@@ -1,0 +1,37 @@
+.Calendar {
+    font-size: 15px;
+    margin: 0 auto;
+  }
+
+.DatePicker {
+    font-size: 15px;
+    margin: 0 auto;
+    left: 130px;
+    top: 20px;
+}
+
+.TimeKeeper {
+    font-size: 25px;
+    margin: 0 auto;
+    left: 250px;
+}
+
+.buttonPosition {
+    text-align: center;
+    left: 200px;
+}
+
+.reservation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.padding {
+    padding-left: 25%;
+}
+.paddingColor {
+    padding-left: 25%;
+    color : #ff0000;
+}

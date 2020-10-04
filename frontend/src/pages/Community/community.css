@@ -1,0 +1,349 @@
+.Submit{
+    width: 120px;
+    margin-left: 10px;
+}
+.Cancel{
+    width: 120px;
+    margin-left: 820px;
+}
+
+.mb-5{
+    margin-left: 50%;
+}
+.gesi{
+    width: 460px;
+}
+.mr-sm-2{
+    width:400px;
+}
+.ml-auto{
+    width: 150px;
+    float: right;
+}
+.table-comu{
+    width: 100%;
+}
+.ii{
+    width: 200px;
+}
+
+.Rev{
+    height: 300px;
+}
+.fix-sub{
+    width: 80px;
+
+}
+.fix-can{
+    width: 80px;
+
+}
+.fix-btn{
+    margin-left: 70%;
+    font-size: large;
+}
+.creationDate{
+    font-size: large;
+}
+.btn-font{
+    font-size: large;
+}
+.use-pic{
+    font-size: x-large;
+}
+.table-menusize{
+    font-size: large;
+}
+.table-search{
+    width: 60%;
+    font-size: large;
+}
+.table-head{
+    font-size: large;
+    width: 20%;
+}
+.content-font{
+    font-size: x-large;
+}
+.cmt-btn{
+    margin-left: 85%;
+    width: 130px;
+}
+.quill-font{
+    font-size: x-large;
+    width :100%;
+    height :100%;
+}
+.table-list{
+    width: 80px;
+}
+.comment{
+    height: 100px;
+}
+.custom-table{
+    width: 90%;
+    margin-left: 30%;
+}
+.que-table{
+    width: 80%;
+    margin-left: 18%;
+}
+.que-nav{
+    width: 100%;
+
+}
+.nav-box {
+    height: 50%;
+    width: 50%;
+}
+.bg-light justify-content-between{
+    width: 80%;
+
+}
+.table-CS{
+    width: 80%;
+}
+.map-container{
+    height: 50%;
+    width: 50%;
+}
+.map-textbtn{
+    width: 150px;
+}
+container{
+    height : 800px;
+    width: 100%;
+}
+.mapbox{
+    height: 50%;
+    width: 50%;
+    margin-left: 18%;
+}
+.search_box{
+
+}
+.mapside{
+    height: 50%;
+    width: 50%;
+    margin-left: 18%;
+}
+/*!
+ * Start Bootstrap - SB Admin 2 v3.3.7+1 (http://startbootstrap.com/template-overviews/sb-admin-2)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+    background-color: #f8f8f8;
+}
+#wrapper {
+    width: 70%;
+    padding: 0 30px;
+    padding-left: 190px;
+
+}
+#QA-1{
+
+}
+#page-wrapper-2{
+    padding: 0 20px;
+    min-height: 568px;
+    background-color: white;
+    width: 80%;
+}
+
+#bg-light justify-content-between-1{
+    width: 80%;
+}
+#page-wrapper {
+    padding: 0 20px;
+    min-height: 568px;
+    background-color: white;
+    width: 100%;
+}
+
+
+@media (min-width: 1100px) {
+    #wrapper {
+        position: inherit;
+        margin: 0 0 0 250px;
+        padding: 0 40px;
+        border-left: 1px solid #e7e7e7;
+        max-width: 1200px;
+    }
+}
+/*@media (min-width: 350px) {*/
+/*    #page-wrapper-1 {*/
+/*        position: inherit;*/
+/*        margin: 0 0 0 250px;*/
+/*        padding: 0 20px;*/
+/*        border-left: 1px solid #e7e7e7;*/
+/*    }*/
+/*}*/
+
+.sidebar ul li {
+    border-bottom: 1px solid #e7e7e7;
+}
+.sidebar ul li a.active {
+    background-color: #31b131;
+}
+.sidebar .arrow {
+    float: right;
+}
+.sidebar .fa.arrow:before {
+    content: "\f104";
+}
+.sidebar .active > a > .fa.arrow:before {
+    content: "\f107";
+}
+.sidebar .nav-second-level li,
+.sidebar .nav-third-level li {
+    border-bottom: none !important;
+}
+.sidebar .nav-second-level li a {
+    padding-left: 37px;
+}
+.sidebar .nav-third-level li a {
+    padding-left: 52px;
+}
+/*@media (min-width: 768px) {*/
+/*    .sidebar {*/
+/*        z-index: 1;*/
+/*        position: absolute;*/
+/*        width: 220px;*/
+/*        margin-top: 51px;*/
+/*    }*/
+/*    .navbar-top-links .dropdown-messages,*/
+/*    .navbar-top-links .dropdown-tasks,*/
+/*    .navbar-top-links .dropdown-alerts {*/
+/*        margin-left: auto;*/
+/*    }*/
+/*}*/
+.comment-box{
+    width: 100%;
+}
+.sidebar {
+    padding: 0;
+    width: 250px;
+    height: 250px;
+    z-index: 11;
+    transition: width 0.25s ease, background 0.25s ease;
+    -webkit-transition: width 0.25s ease, background 0.25s ease;
+    -moz-transition: width 0.25s ease, background 0.25s ease;
+    -ms-transition: width 0.25s ease, background 0.25s ease;
+    font-size: small;
+}
+.sidebar > .nav {
+    overflow: hidden;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+
+.main-side{
+    float: left;
+    height: 100%;
+    width: 15%;
+
+}
+
+#page-wrapper-1{
+    min-height: 500px;
+    background-color: #f6fafe;
+    width: 100%;
+    height: 100%;
+    margin-top:50px;
+}
+.button-right{
+    float: right;
+}
+.form-select{
+    width: 120px;
+    height: 40px;
+    margin-right: 300px;
+    font-size: large;
+}
+.form-select-title{
+    width: 240px;
+    height: 40px;
+    font-size: large;
+}
+.form-num{
+    width: 100px;
+    font-size: large;
+}
+.pagiantion-comu{
+    margin-left: 40%;
+}
+.form-user{
+    width: 100px;
+    font-size: large;
+}
+.cate-label{
+    font-size: large;
+    margin-left: 60px;
+}
+
+.cate-select{
+    margin-left: 20px;
+}
+
+.edit-ser{
+    width: 150px;
+    height: 30px;
+}
+
+
+.medcate-label{
+    font-size: large;
+    margin-left: 60px;
+}
+.medcate-select{
+    margin-left: 20px;
+}
+
+
+.main-board{
+    width: 85%;
+    height: 700px;
+    background-color: #f6fafe;
+    float: right;
+    border-left: solid purple 1px;
+
+}
+.searching{
+    width: 120px;
+}
+.community-table{
+    width: 100%;
+    float: right;
+    font-size: 15px;
+
+}
+.titlebox{
+    width: 60%;
+    height: 20px;
+}
+.main-bigboard{
+    width: 100%;
+    height: 700px;
+    max-width: 1300px;
+}
+.search-form{
+    width: 180px;
+}
+.form-control{
+    width: 100%;
+}
+.select{
+    width: 200px;
+}
+.sidebar-offcanvas{
+    font-size: 20px;
+    margin-top:50px
+}
+.Rev-tab{
+    margin-top:50px
+
+}

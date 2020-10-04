@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32746d49-5c9d-479e-b07a-ce460cad7c3c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1etOpEVotiAyKSuG0EYEy3ErEWm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\lim_1\Desktop\Team_H2O\frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lim_1\Desktop\Team_H2O\frontend\src" />
+      <recent name="C:\Users\bit23\Desktop\king\frontend\src\pages\Ambulance" />
+      <recent name="C:\Users\lim_1\Team_H2O_Frontend\src\helpers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lim_1\Desktop\Team_H2O\frontend\src\pages" />
+      <recent name="C:\Users\lim_1\Desktop\Team_H2O\frontend\src" />
+      <recent name="C:\Users\lim_1\Desktop\Team_H2O\frontend\public\admin_images" />
+      <recent name="C:\Users\lim_1\Team_H2O\frontend\src\pages" />
+      <recent name="C:\Users\lim_1\Team_H2O\frontend\src\admin\views" />
+    </key>
+
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32746d49-5c9d-479e-b07a-ce460cad7c3c" name="Default Changelist" comment="" />
+      <created>1595137602386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595137602386</updated>
+      <workItem from="1595137603994" duration="1443000" />
+      <workItem from="1595139184259" duration="2128000" />
+      <workItem from="1595834672552" duration="671000" />
+      <workItem from="1595989262312" duration="1211000" />
+      <workItem from="1596078627929" duration="2588000" />
+      <workItem from="1596296964284" duration="1080000" />
+      <workItem from="1596375288080" duration="643000" />
+      <workItem from="1596452950162" duration="2005000" />
+      <workItem from="1596524965212" duration="55000" />
+      <workItem from="1597041731879" duration="3029000" />
+      <workItem from="1597045311244" duration="269000" />
+      <workItem from="1597058019487" duration="1568000" />
+      <workItem from="1597105575422" duration="1946000" />
+      <workItem from="1597128835325" duration="4261000" />
+      <workItem from="1597139259982" duration="315000" />
+      <workItem from="1597192221880" duration="25124000" />
+      <workItem from="1597590373401" duration="123000" />
+      <workItem from="1597735515266" duration="856000" />
+      <workItem from="1597740370346" duration="1399000" />
+
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1597136008452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597136008452" />
+    <state width="1845" height="162" key="GridCell.Tab.0.bottom" timestamp="1597209750642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="162" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597209750642" />
+    <state width="1845" height="162" key="GridCell.Tab.0.center" timestamp="1597209750642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="162" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597209750642" />
+    <state width="1845" height="162" key="GridCell.Tab.0.left" timestamp="1597209750642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="162" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597209750642" />
+    <state width="1845" height="162" key="GridCell.Tab.0.right" timestamp="1597209750642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="162" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597209750642" />
+    <state x="601" y="245" key="run.anything.popup" timestamp="1597210700527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597210700527" />
+    <state x="983" y="232" width="670" height="58" key="search.everywhere.popup" timestamp="1597193669837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="983" y="232" width="670" height="58" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597193669837" />
+  </component>
+</project>
